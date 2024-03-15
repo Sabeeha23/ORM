@@ -51,7 +51,8 @@ admin.site.register(Railway, RailwayAdmin)
 
 ## OUTPUT
 
-![alt text](<2024-03-09 (3).png>)
+![2024-03-09 (3)](https://github.com/Sabeeha23/ORM/assets/150231876/3bc5fefd-c057-4d93-8747-42c2a31a086d)
+
 
 
 ## RESULT
