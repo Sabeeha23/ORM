@@ -51,7 +51,8 @@ admin.site.register(Railway, RailwayAdmin)
 
 ## OUTPUT
 
-![2024-03-09 (3)](https://github.com/Sabeeha23/ORM/assets/150231876/3bc5fefd-c057-4d93-8747-42c2a31a086d)
+![2024-03-15 (3)](https://github.com/Sabeeha23/ORM/assets/150231876/d0ff0d6e-5e52-46db-8ef5-f73b3b9e47d7)
+
 
 
 
