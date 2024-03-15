@@ -6,7 +6,8 @@ To develop a Django application to store and retrieve data from a Railway databa
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
+![image](https://github.com/Sabeeha23/ORM/assets/150231876/36f8cdc0-d4d1-46ec-9bf0-83420dbfe76b)
+
 
 ## DESIGN STEPS
 
