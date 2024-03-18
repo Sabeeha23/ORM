@@ -21,7 +21,7 @@ Create a new app in Django project
 Enter the code for admin.py and models.py
 
 ### STEP 4:
-Execute Django admin and create details for 10 books
+Execute Django admin and create details for 10 railways
 
 ## PROGRAM
 ```
@@ -58,4 +58,4 @@ admin.site.register(Railway, RailwayAdmin)
 
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM has been executed successfully
